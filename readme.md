@@ -10,7 +10,8 @@ A tolerant, minimal icalendar parser for javascript/node
 
 ## Install - Node.js ##
 
-ical.js is availble on npm:
+ical.js is availble on npm but it seems to be buggy, and not work in webpack setup,
+so I removed a few useless modules and stuff such as the module 'request' , 'rrule' and deleted some useless files so now it compiles in the browser no problem.
 
 ## NPM INSTALL
     npm install git+https://git@github.com/vasilevich/ical.js.git
