@@ -12,8 +12,10 @@ A tolerant, minimal icalendar parser for javascript/node
 
 ical.js is availble on npm:
 
-    npm install ical
-
+## NPM INSTALL
+    npm install git+https://git@github.com/vasilevich/ical.js.git
+## YARN INSTALL
+    yarn add git+https://git@github.com/vasilevich/ical.js.git
 
 
 ## API ##
